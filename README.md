@@ -14,6 +14,7 @@ The api link to the server from React Frontend is now:
 http://localhost:4000/upload-image
 
 Install the frontend:
+https://github.com/domilam/bweez_frontend
 
 It's done !!
 
